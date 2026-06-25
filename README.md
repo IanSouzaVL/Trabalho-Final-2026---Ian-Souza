@@ -84,6 +84,14 @@ Ao finalizar, define-se a OS como concluída, registra-se data/hora de entrega e
 
 ---
 
+## 👥 Identificação do Aluno
+
+| Nome | Sistema |
+|---|---|
+| Ian Souza Lisboa | 4 - Mecânica|
+
+---
+
 ## 🚀 Como Executar
 
 ```bash
