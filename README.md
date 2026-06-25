@@ -101,5 +101,3 @@ python main.py
 > _Descreva aqui quaisquer instruções adicionais para rodar o seu sistema (bibliotecas necessárias, arquivos de dados etc.)._
 
 ---
-
-_Bons estudos e mãos à obra! 💻_
